@@ -1,0 +1,26 @@
+sku,group,type,album,track,title,description,price_usd,url
+# ── Collections ─────────────────────────────────────────────────────────────────────
+HAWK-ARS-00,Arsenal,Collection,,,The Arsenal: A Lyrical Codex,"Full lyrical archive for all releases",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-00/full_compilation.md
+HAWK-ARS-01,Arsenal,Collection,,,Singles Anthology,"All standalone singles collected",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-01/singles_anthology.md
+HAWK-ARS-02,Arsenal,Collection,,,Mixtape Sessions,"Raw mixtape session lyric notebooks",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-02/mixtape_sessions.md
+HAWK-ARS-03,Arsenal,Collection,,,Phase II Sessions,"Phase II lyric notebooks & drafts",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-03/phase2_sessions.md
+
+# ── Album Packages ──────────────────────────────────────────────────────────────────
+HAWK-FD-00,Arsenal,Album,Full Disclosure,,Full Disclosure Album Package,"Digital album + lyric booklet",9.99,https://onebucket.omniversal.cloud/src/data/HAWK-FD-00/album_package.zip
+HAWK-BAP-00,Arsenal,Album,Behold A Pale Horse,,Behold A Pale Horse Album Package,"Digital album + lyric booklet",9.99,https://onebucket.omniversal.cloud/src/data/HAWK-BAP-00/album_package.zip
+HAWK-MB-00,Arsenal,Album,Milabs,,Milabs Album Package,"Digital album + lyric booklet",9.99,https://onebucket.omniversal.cloud/src/data/HAWK-MB-00/album_package.zip
+
+# ── Individual Tracks ───────────────────────────────────────────────────────────────
+HAWK-FD-01,Arsenal,Track,Full Disclosure,01,Swordfish,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-01/swordfish.mp3
+HAWK-FD-02,Arsenal,Track,Full Disclosure,02,Mic Check,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-02/mic_check.mp3
+HAWK-FD-03,Arsenal,Track,Full Disclosure,03,Shakur,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-03/shakur.mp3
+HAWK-FD-04,Arsenal,Track,Full Disclosure,04,Warning Shots,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-04/warning_shots.mp3
+HAWK-FD-05,Arsenal,Track,Full Disclosure,05,Mic Rattle,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-05/mic_rattle.mp3
+
+HAWK-BAP-01,Arsenal,Track,Behold A Pale Horse,01,Warning Shots,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-01/warning_shots.mp3
+HAWK-BAP-02,Arsenal,Track,Behold A Pale Horse,02,Behold A Pale Horse,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-02/behold_a_pale_horse.mp3
+HAWK-BAP-03,Arsenal,Track,Behold A Pale Horse,03,Kamikaze,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-03/kamikaze.mp3
+
+HAWK-MB-01,Arsenal,Track,Milabs,01,Soft Disclosure,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-MB-01/soft_disclosure.mp3
+
+# Add additional tracks below as needed

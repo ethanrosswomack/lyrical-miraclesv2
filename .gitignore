@@ -1,0 +1,23 @@
+# Local env + secrets
+lyrical-env.sh
+
+# Python virtualenv
+.venv/
+
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Generated artifacts
+/dist/
+
+# Large media
+media/audio/
+media/images/
+
+# Notebook artifacts
+**/.ipynb_checkpoints/
+
+# Misc
+*.swp
+.DS_Store

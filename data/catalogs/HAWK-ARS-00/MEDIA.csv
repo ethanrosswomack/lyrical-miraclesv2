@@ -1,0 +1,28 @@
+sku,group,type,album,track,title,description,price_usd,url
+# ── Collections ─────────────────────────────────────────────────────────────────────
+HAWK-ARS-00,Arsenal,Collection,,,The Arsenal: A Lyrical Codex,"Full lyrical archive for all releases",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-00/full_compilation.md
+HAWK-ARS-01,Arsenal,Collection,,,Singles Anthology,"All standalone singles collected",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-01/singles_anthology.zip
+HAWK-ARS-02,Arsenal,Collection,,,Mixtape Sessions,"Raw mixtape session notebooks & code",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-02/mixtape_sessions_2025-04-24.zip
+HAWK-ARS-03,Arsenal,Collection,,,Phase II Sessions,"Next-phase demos & drafts",0.00,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-03/phase2_sessions.zip
+
+# ── Albums ─────────────────────────────────────────────────────────────────────────
+HAWK-FD-00,Full Disclosure,Album,Full Disclosure,,,Digital album download + PDF booklet,9.99,https://onebucket.omniversal.cloud/src/data/HAWK-FD-00/album_package.zip
+HAWK-BAP-00,Behold A Pale Horse,Album,Behold A Pale Horse,,,Digital album + lyrics,9.99,https://onebucket.omniversal.cloud/src/data/HAWK-BAP-00/album_package.zip
+HAWK-MB-00,Milabs,Album,Milabs,,,Digital album + lyric chapbook,9.99,https://onebucket.omniversal.cloud/src/data/HAWK-MB-00/album_package.zip
+
+# ── Tracks ────────────────────────────────────────────────────────────────────────
+HAWK-FD-01,Full Disclosure,Track,Full Disclosure,01,Swordfish,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-01/swordfish.mp3
+HAWK-FD-02,Full Disclosure,Track,Full Disclosure,02,Mic Check,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-02/mic_check.mp3
+…continue for every FD track…
+
+HAWK-BAP-01,Behold A Pale Horse,Track,Behold A Pale Horse,01,Warning Shots,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-01/warning_shots.mp3
+HAWK-BAP-02,Behold A Pale Horse,Track,Behold A Pale Horse,02,Behold A Pale Horse,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-02/behold_a_pale_horse.mp3
+…etc…
+
+HAWK-MB-01,Milabs,Track,Milabs,01,Soft Disclosure,"Streaming audio (320kbps)",0.00,https://onebucket.omniversal.cloud/src/audio/HAWK-MB-01/soft_disclosure.mp3
+…etc…
+
+# ── Merch & Extras ─────────────────────────────────────────────────────────────────
+HAWK-MERCH-TSHIRT-01,Merch,Merchandise,,,“EverLight’s Rite-Along” T-shirt,"100% cotton, black",19.99,https://onebucket.omniversal.cloud/src/merch/tshirt_everlight.pdf
+HAWK-MERCH-POSTER-01,Merch,Merchandise,,,“Behold A Pale Horse” poster,"24×36 glossy",9.99,https://onebucket.omniversal.cloud/src/merch/poster_baph.pdf
+…add more as you release them…

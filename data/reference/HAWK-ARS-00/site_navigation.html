@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hawk’s Nest — Navigation</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #141823;
+      --text: #e6e8ee;
+      --muted: #a7b0c0;
+      --accent: #79ffe1;
+      --border: #242a38;
+      --hover: #1b2130;
+      --radius: 14px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+      background: var(--bg); color: var(--text);
+      display: grid; place-items: start center; min-height: 100vh; padding: 24px;
+    }
+    .nav {
+      width: min(860px, 95vw);
+      background: linear-gradient(180deg, var(--panel), #0f1422 120%);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 10px 40px rgba(0,0,0,.45);
+      overflow: hidden;
+    }
+    .header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 20px; border-bottom: 1px solid var(--border);
+      background: rgba(255,255,255,0.02);
+    }
+    .brand { display: flex; align-items: center; gap: 12px; font-weight: 700; letter-spacing: .2px; }
+    .brand .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 20px var(--accent); }
+    .brand small { color: var(--muted); font-weight: 500; margin-left: 6px; }
+    .search {
+      display: flex; align-items: center; gap: 10px;
+      background: var(--hover); border: 1px solid var(--border);
+      padding: 8px 12px; border-radius: 999px; width: 280px;
+    }
+    .search input {
+      width: 100%; background: transparent; border: none; outline: none; color: var(--text);
+    }
+    .list { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; padding: 16px; }
+    .item {
+      display: flex; align-items: center; gap: 12px;
+      padding: 14px; border-radius: 12px;
+      border: 1px solid var(--border); background: #121829;
+      text-decoration: none; color: var(--text);
+      transition: transform .08s ease, background .15s ease, border-color .15s ease;
+    }
+    .item:hover { background: var(--hover); border-color: #2b3347; transform: translateY(-1px); }
+    .item .icon {
+      width: 36px; height: 36px; border-radius: 10px; display: grid; place-items: center;
+      background: #0f1628; border: 1px solid #2a3348; font-weight: 700;
+    }
+    .item span { display: block; }
+    .item small { color: var(--muted); display: block; margin-top: 2px; }
+    .section {
+      padding: 8px 16px; margin: 0 16px 8px; color: var(--muted);
+      font-size: 12px; letter-spacing: .12em; text-transform: uppercase;
+    }
+    .footer { padding: 14px 16px; border-top: 1px solid var(--border); color: var(--muted); font-size: 13px; }
+    @media (max-width: 640px) {
+      .search { width: 100%; }
+      .header { flex-direction: column; align-items: stretch; gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav" aria-label="Hawk’s Nest Navigation">
+    <div class="header">
+      <div class="brand">
+        <div class="dot" aria-hidden="true"></div>
+        Hawk’s Nest <small>ARS‑00</small>
+      </div>
+      <label class="search" aria-label="Filter navigation">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M21 21l-4.3-4.3M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" stroke="currentColor" stroke-width="1.6"/></svg>
+        <input id="filter" type="search" placeholder="Quick find…" autocomplete="off" />
+      </label>
+    </div>
+
+    <div class="section">Core</div>
+    <div class="list" id="nav-list">
+      <!-- Each .item is: href, label, sublabel -->
+      <a class="item" href="https://s3.omniversalaether.app/src/data/HAWK-ARS-00/HawksNest.html">
+        <div class="icon">HN</div>
+        <div><span>Hawk’s Nest</span><small>Home / overview</small></div>
+      </a>
+      <a class="item" href="https://s3.omniversalaether.app/src/data/HAWK-ARS-00/Manifest.html">
+        <div class="icon">MF</div>
+        <div><span>Manifest</span><small>Intent & scope</small></div>
+      </a>
+      <a class="item" href="https://s3.omniversalaether.app/src/data/HAWK-ARS-00/Roadmap.html">
+        <div class="icon">RM</div>
+        <div><span>Roadmap</span><small>Milestones & phases</small></div>
+      </a>
+      <a class="item" href="https://s3.omniversalaether.app/src/data/HAWK-ARS-00/Archive.html">
+        <div class="icon">AR</div>
+        <div><span>Archive</span><small>Drops & records</small></div>
+      </a>
+      <a class="item" href="https://s3.omniversalaether.app/src/data/HAWK-ARS-00/Contacts.html">
+        <div class="icon">CT</div>
+        <div><span>Contacts</span><small>Allies & channels</small></div>
+      </a>
+
+      <div class="section" style="grid-column: 1 / -1;">Systems</div>
+
+      <a class="item" href="https://everlight.omniversalmedia.vip" target="_blank" rel="noopener">
+        <div class="icon">EL</div>
+        <div><span>EverLight OS</span><small>Portal</small></div>
+      </a>
+      <a class="item" href="https://sphinxguardian.com" target="_blank" rel="noopener">
+        <div class="icon">SG</div>
+        <div><span>Sphinx Guardian</span><small>Docs</small></div>
+      </a>
+      <a class="item" href="https://catalog.cloudflarestorage.com/74b94b7ffc15701b77e53f81bea03813/omniversal-s3" target="_blank" rel="noopener">
+        <div class="icon">R2</div>
+        <div><span>R2 Catalog</span><small>Browse storage</small></div>
+      </a>
+      <a class="item" href="https://s3.omniversalaether.app" target="_blank" rel="noopener">
+        <div class="icon">S3</div>
+        <div><span>Static Bucket Root</span><small>Index & files</small></div>
+      </a>
+    </div>
+
+    <div class="footer">
+      Tip: you can embed this nav into <code>HawksNest.html</code> via an <code>&lt;iframe&gt;</code> or fetch‑and‑inject (see below).
+    </div>
+  </nav>
+
+  <script>
+    // Client-side filter
+    const input = document.getElementById('filter');
+    const items = Array.from(document.querySelectorAll('.item'));
+    input?.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      items.forEach(a => {
+        const txt = a.innerText.toLowerCase();
+        a.style.display = txt.includes(q) ? '' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

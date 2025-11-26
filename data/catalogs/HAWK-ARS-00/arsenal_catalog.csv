@@ -1,0 +1,19 @@
+Group,SKU,Type,Album,Title,Link
+Arsenal,HAWK-ARS-00,Arsenal,,The Arsenal: A Lyrical Codex,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-00/full_compilation.md
+Arsenal,HAWK-ARS-01,Arsenal,,Singles Anthology,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-01/singles_collection.zip
+Arsenal,HAWK-ARS-02,Arsenal,,Mixtape Sessions,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-02/mixtape_sessions_2025-04-24.zip
+Arsenal,HAWK-ARS-03,Arsenal,,Phase II Sessions,https://onebucket.omniversal.cloud/src/data/HAWK-ARS-03/phase2_sessions.zip
+
+Track,HAWK-FD-01,Track,Full Disclosure,Swordfish,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-01/swordfish.mp3
+Track,HAWK-FD-02,Track,Full Disclosure,Mic Check,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-02/mic_check.mp3
+Track,HAWK-FD-03,Track,Full Disclosure,Shakur,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-03/shakur.mp3
+Track,HAWK-FD-04,Track,Full Disclosure,Warning Shots,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-04/warning_shots.mp3
+Track,HAWK-FD-05,Track,Full Disclosure,Mic Rattle,https://onebucket.omniversal.cloud/src/audio/HAWK-FD-05/mic_rattle.mp3
+
+Track,HAWK-BAP-01,Track,Behold A Pale Horse,Warning Shots,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-01/warning_shots.mp3
+Track,HAWK-BAP-02,Track,Behold A Pale Horse,Behold A Pale Horse,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-02/behold_a_pale_horse.mp3
+Track,HAWK-BAP-03,Track,Behold A Pale Horse,Kamikaze,https://onebucket.omniversal.cloud/src/audio/HAWK-BAP-03/kamikaze.mp3
+
+Track,HAWK-MB-01,Track,Milabs,Soft Disclosure,https://onebucket.omniversal.cloud/src/audio/HAWK-MB-01/soft_disclosure.mp3
+
+# Add additional tracks below as needed

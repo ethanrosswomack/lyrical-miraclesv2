@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Original Hawk",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Original_Hawk.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Original_Hawk.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch"
+  },
+  {
+    "title": "Config Script",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Config_Script.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Config_Script.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch"
+  },
+  {
+    "title": "Hawk Merch",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Hawk_Merch.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Hawk_Merch.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch"
+  },
+  {
+    "title": "Limited Edition Drops",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Limited Edition Drops.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Limited Edition Drops.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops"
+  },
+  {
+    "title": "Lyrical Legacy Vintage Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Lyrical Legacy Vintage Collection/Lyrical Legacy Vintage Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Lyrical Legacy Vintage Collection/Lyrical Legacy Vintage Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Lyrical Legacy Vintage Collection"
+  },
+  {
+    "title": "Conscious Threads Eco-Friendly Line",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Conscious Threads Eco-Friendly Line/Conscious Threads Eco-Friendly Line.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Conscious Threads Eco-Friendly Line/Conscious Threads Eco-Friendly Line.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Conscious Threads Eco-Friendly Line"
+  },
+  {
+    "title": "Rhyme And Reason Collaboration Series",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Rhyme and Reason Collaboration Series/Rhyme and Reason Collaboration Series.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Rhyme and Reason Collaboration Series/Rhyme and Reason Collaboration Series.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Rhyme and Reason Collaboration Series"
+  },
+  {
+    "title": "Vigilant Eyes Tour Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Vigilant Eyes Tour Collection/Vigilant Eyes Tour Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Vigilant Eyes Tour Collection/Vigilant Eyes Tour Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited Edition Drops/Vigilant Eyes Tour Collection"
+  },
+  {
+    "title": "Hawk Eye View Snapback",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Hawk Eye View Snapback.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Hawk Eye View Snapback.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers"
+  },
+  {
+    "title": "Best Sellers",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Best Sellers.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Best Sellers.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers"
+  },
+  {
+    "title": "Sharp Vision Graphic Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Sharp Vision Graphic Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Sharp Vision Graphic Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers"
+  },
+  {
+    "title": "Lyrical Precision Hoodie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Lyrical Precision Hoodie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers/Lyrical Precision Hoodie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best Sellers"
+  },
+  {
+    "title": "Limited Edition Drops",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited_Edition_Drops/Limited_Edition_Drops.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited_Edition_Drops/Limited_Edition_Drops.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Limited_Edition_Drops"
+  },
+  {
+    "title": "Album-Inspired Collections",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Album-Inspired Collections.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Album-Inspired Collections.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections"
+  },
+  {
+    "title": "Prophecy Long Sleeve Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/Prophecy Long Sleeve Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/Prophecy Long Sleeve Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection"
+  },
+  {
+    "title": "Pale Rider Snapback",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/Pale Rider Snapback.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/Pale Rider Snapback.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection"
+  },
+  {
+    "title": "Behold A Pale Horse Collection-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/.ipynb_checkpoints/Behold A Pale Horse Collection-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/.ipynb_checkpoints/Behold A Pale Horse Collection-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Behold A Pale Horse Collection/.ipynb_checkpoints"
+  },
+  {
+    "title": "Disclosure Hoodie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Disclosure Hoodie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Disclosure Hoodie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Truth Seeker Graphic Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Truth Seeker Graphic Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Truth Seeker Graphic Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Full Disclosure Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Full Disclosure Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/Full Disclosure Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Full Disclosure Collection-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Full Disclosure Collection-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Full Disclosure Collection-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints"
+  },
+  {
+    "title": "Disclosure Hoodie-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Disclosure Hoodie-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Disclosure Hoodie-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints"
+  },
+  {
+    "title": "Truth Seeker Graphic Tee-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Truth Seeker Graphic Tee-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints/Truth Seeker Graphic Tee-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Full Disclosure Collection/.ipynb_checkpoints"
+  },
+  {
+    "title": "Milabs Merchandise",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Milabs Merchandise.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Milabs Merchandise.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Mind Control Beanie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Mind Control Beanie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Mind Control Beanie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Abductee Glow-In-The-Dark Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Abductee Glow-in-the-Dark Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise/Abductee Glow-in-the-Dark Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Album-Inspired Collections-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/.ipynb_checkpoints/Album-Inspired Collections-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/.ipynb_checkpoints/Album-Inspired Collections-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/.ipynb_checkpoints"
+  },
+  {
+    "title": "Glitch In The System Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Glitch in the System Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Glitch in the System Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Shadow Banned Apparel",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Shadow Banned Apparel.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Shadow Banned Apparel.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Unsilenced Face Mask",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Unsilenced Face Mask.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/Unsilenced Face Mask.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Unsilenced Face Mask-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Unsilenced Face Mask-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Unsilenced Face Mask-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints"
+  },
+  {
+    "title": "Shadow Banned Apparel-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Shadow Banned Apparel-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Shadow Banned Apparel-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints"
+  },
+  {
+    "title": "Glitch In The System Tee-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Glitch in the System Tee-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints/Glitch in the System Tee-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired Collections/Shadow Banned Apparel/.ipynb_checkpoints"
+  },
+  {
+    "title": "Custom Merch Creator",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator/Custom_Merch_Creator.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator/Custom_Merch_Creator.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator"
+  },
+  {
+    "title": "Custom Merch Creator-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator/.ipynb_checkpoints/Custom_Merch_Creator-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator/.ipynb_checkpoints/Custom_Merch_Creator-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom_Merch_Creator/.ipynb_checkpoints"
+  },
+  {
+    "title": "Album-Inspired Collections",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections/Album-Inspired_Collections.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections/Album-Inspired_Collections.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections"
+  },
+  {
+    "title": "Album-Inspired Collections-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints/Album-Inspired_Collections-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints/Album-Inspired_Collections-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints"
+  },
+  {
+    "title": "Best Sellers",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best_Sellers/Best_Sellers.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best_Sellers/Best_Sellers.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Best_Sellers"
+  },
+  {
+    "title": "Customize Design",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Customize Design.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Customize Design.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator"
+  },
+  {
+    "title": "Custom Merch Creator",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Custom Merch Creator.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Custom Merch Creator.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator"
+  },
+  {
+    "title": "Choose Base Item",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Choose Base Item.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Choose Base Item.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator"
+  },
+  {
+    "title": "Album Art",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Add Lyrics/Album Art.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Add Lyrics/Album Art.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Merchandise_Categories/Custom Merch Creator/Add Lyrics"
+  },
+  {
+    "title": "Hoodies",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hoodies/Hoodies.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hoodies/Hoodies.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hoodies"
+  },
+  {
+    "title": "Accessories",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories/Accessories.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories/Accessories.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories"
+  },
+  {
+    "title": "Accessories-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories/.ipynb_checkpoints/Accessories-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories/.ipynb_checkpoints/Accessories-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Accessories/.ipynb_checkpoints"
+  },
+  {
+    "title": "Posters",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Posters/Posters.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Posters/Posters.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Posters"
+  },
+  {
+    "title": "Hats",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hats/Hats.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hats/Hats.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/Hats"
+  },
+  {
+    "title": "T-Shirts",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/T-Shirts/T-Shirts.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/T-Shirts/T-Shirts.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Product_Concepts/T-Shirts"
+  },
+  {
+    "title": "Home Page",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Home_Page/Home_Page.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Home_Page/Home_Page.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Home_Page"
+  },
+  {
+    "title": "Category Pages",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Category_Pages/Category_Pages.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Category_Pages/Category_Pages.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Category_Pages"
+  },
+  {
+    "title": "Cart And Checkout",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Cart_and_Checkout/Cart_and_Checkout.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Cart_and_Checkout/Cart_and_Checkout.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Cart_and_Checkout"
+  },
+  {
+    "title": "Product Detail Pages",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Product_Detail_Pages/Product_Detail_Pages.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Product_Detail_Pages/Product_Detail_Pages.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Website_Layout_and_Pages/Product_Detail_Pages"
+  },
+  {
+    "title": "Influencer Collaborations",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Influencer_Collaborations/Influencer_Collaborations.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Influencer_Collaborations/Influencer_Collaborations.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Influencer_Collaborations"
+  },
+  {
+    "title": "Social Media Campaigns",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Social_Media_Campaigns/Social_Media_Campaigns.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Social_Media_Campaigns/Social_Media_Campaigns.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Social_Media_Campaigns"
+  },
+  {
+    "title": "Email Marketing",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Email_Marketing/Email_Marketing.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Email_Marketing/Email_Marketing.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Email_Marketing"
+  },
+  {
+    "title": "Paid Ads",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Paid_Ads/Paid_Ads.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Paid_Ads/Paid_Ads.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Marketing_Strategy/Paid_Ads"
+  },
+  {
+    "title": "Marketing And Promotion",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/Marketing_and_Promotion.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/Marketing_and_Promotion.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion"
+  },
+  {
+    "title": "Marketing And Promotion-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/.ipynb_checkpoints/Marketing_and_Promotion-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/.ipynb_checkpoints/Marketing_and_Promotion-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/.ipynb_checkpoints"
+  },
+  {
+    "title": "Print On Demand Setup",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup/Print_on_Demand_Setup.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup/Print_on_Demand_Setup.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup"
+  },
+  {
+    "title": "Seo And Keyword Strategy",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy/SEO_and_Keyword_Strategy.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy/SEO_and_Keyword_Strategy.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy"
+  },
+  {
+    "title": "Pricing And Profit Margins",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/Pricing_and_Profit_Margins.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/Pricing_and_Profit_Margins.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins"
+  },
+  {
+    "title": "Pricing And Profit Margins-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/.ipynb_checkpoints/Pricing_and_Profit_Margins-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/.ipynb_checkpoints/Pricing_and_Profit_Margins-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/.ipynb_checkpoints"
+  },
+  {
+    "title": "Hawk Merch-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Hawk_Merch-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Hawk_Merch-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints"
+  },
+  {
+    "title": "Original Hawk-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Original_Hawk-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Original_Hawk-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints"
+  },
+  {
+    "title": "Config Script-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Config_Script-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints/Config_Script-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Rap_Merch/.ipynb_checkpoints"
+  },
+  {
+    "title": "Aether Administrative Codex",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex/Aether_Administrative_Codex.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex/Aether_Administrative_Codex.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex"
+  },
+  {
+    "title": "Aether Administrative Codex-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex/.ipynb_checkpoints/Aether_Administrative_Codex-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex/.ipynb_checkpoints/Aether_Administrative_Codex-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/02_Aether_Business_Codex/.ipynb_checkpoints"
+  },
+  {
+    "title": "Shadow Banned Rap Notebook",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/01_Rap_Notebook/Shadow_Banned_Rap_Notebook.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/01_Rap_Notebook/Shadow_Banned_Rap_Notebook.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/01_Rap_Notebook"
+  },
+  {
+    "title": "Original Hawk",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Original_Hawk.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Original_Hawk.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store"
+  },
+  {
+    "title": "Config Script",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config_Script.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config_Script.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store"
+  },
+  {
+    "title": "Hawk Merch",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Hawk_Merch.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Hawk_Merch.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store"
+  },
+  {
+    "title": "Limited Edition Drops",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Limited_Edition_Drops/Limited_Edition_Drops.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Limited_Edition_Drops/Limited_Edition_Drops.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Limited_Edition_Drops"
+  },
+  {
+    "title": "Custom Merch Creator",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Custom_Merch_Creator/Custom_Merch_Creator.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Custom_Merch_Creator/Custom_Merch_Creator.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Custom_Merch_Creator"
+  },
+  {
+    "title": "Album-Inspired Collections",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections/Album-Inspired_Collections.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections/Album-Inspired_Collections.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections"
+  },
+  {
+    "title": "Album-Inspired Collections-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints/Album-Inspired_Collections-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints/Album-Inspired_Collections-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Album-Inspired_Collections/.ipynb_checkpoints"
+  },
+  {
+    "title": "Best Sellers",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Best_Sellers/Best_Sellers.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Best_Sellers/Best_Sellers.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Merchandise_Categories/Best_Sellers"
+  },
+  {
+    "title": "Limited Edition Drops",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Limited Edition Drops.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Limited Edition Drops.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops"
+  },
+  {
+    "title": "Lyrical Legacy Vintage Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Lyrical Legacy Vintage Collection/Lyrical Legacy Vintage Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Lyrical Legacy Vintage Collection/Lyrical Legacy Vintage Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Lyrical Legacy Vintage Collection"
+  },
+  {
+    "title": "Conscious Threads Eco-Friendly Line",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Conscious Threads Eco-Friendly Line/Conscious Threads Eco-Friendly Line.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Conscious Threads Eco-Friendly Line/Conscious Threads Eco-Friendly Line.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Conscious Threads Eco-Friendly Line"
+  },
+  {
+    "title": "Rhyme And Reason Collaboration Series",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Rhyme and Reason Collaboration Series/Rhyme and Reason Collaboration Series.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Rhyme and Reason Collaboration Series/Rhyme and Reason Collaboration Series.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Rhyme and Reason Collaboration Series"
+  },
+  {
+    "title": "Vigilant Eyes Tour Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Vigilant Eyes Tour Collection/Vigilant Eyes Tour Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Vigilant Eyes Tour Collection/Vigilant Eyes Tour Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Limited Edition Drops/Vigilant Eyes Tour Collection"
+  },
+  {
+    "title": "Hawk Eye View Snapback",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Hawk Eye View Snapback.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Hawk Eye View Snapback.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers"
+  },
+  {
+    "title": "Best Sellers",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Best Sellers.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Best Sellers.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers"
+  },
+  {
+    "title": "Sharp Vision Graphic Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Sharp Vision Graphic Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Sharp Vision Graphic Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers"
+  },
+  {
+    "title": "Lyrical Precision Hoodie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Lyrical Precision Hoodie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers/Lyrical Precision Hoodie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Best Sellers"
+  },
+  {
+    "title": "Album-Inspired Collections",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Album-Inspired Collections.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Album-Inspired Collections.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections"
+  },
+  {
+    "title": "Prophecy Long Sleeve Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Prophecy Long Sleeve Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Prophecy Long Sleeve Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection"
+  },
+  {
+    "title": "Pale Rider Snapback",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Pale Rider Snapback.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Pale Rider Snapback.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection"
+  },
+  {
+    "title": "Behold A Pale Horse Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Behold A Pale Horse Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection/Behold A Pale Horse Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Behold A Pale Horse Collection"
+  },
+  {
+    "title": "Disclosure Hoodie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Disclosure Hoodie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Disclosure Hoodie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Truth Seeker Graphic Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Truth Seeker Graphic Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Truth Seeker Graphic Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Full Disclosure Collection",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Full Disclosure Collection.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection/Full Disclosure Collection.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Full Disclosure Collection"
+  },
+  {
+    "title": "Milabs Merchandise",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Milabs Merchandise.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Milabs Merchandise.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Mind Control Beanie",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Mind Control Beanie.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Mind Control Beanie.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Abductee Glow-In-The-Dark Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Abductee Glow-in-the-Dark Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise/Abductee Glow-in-the-Dark Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Milabs Merchandise"
+  },
+  {
+    "title": "Glitch In The System Tee",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Glitch in the System Tee.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Glitch in the System Tee.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Shadow Banned Apparel",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Shadow Banned Apparel.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Shadow Banned Apparel.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Unsilenced Face Mask",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Unsilenced Face Mask.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel/Unsilenced Face Mask.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Album-Inspired Collections/Shadow Banned Apparel"
+  },
+  {
+    "title": "Hawkeye Original Merch",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/HawkEye_Original_Merch.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/HawkEye_Original_Merch.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config"
+  },
+  {
+    "title": "Config Script",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/Config_Script.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/Config_Script.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config"
+  },
+  {
+    "title": "Hawkeye Merchandise Store Planning",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/HawkEye_Merchandise_Store_Planning.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/HawkEye_Merchandise_Store_Planning.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config"
+  },
+  {
+    "title": "Hawkeye Original Merch-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/HawkEye_Original_Merch-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/HawkEye_Original_Merch-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints"
+  },
+  {
+    "title": "Hawkeye Merchandise Store Planning-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/HawkEye_Merchandise_Store_Planning-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/HawkEye_Merchandise_Store_Planning-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints"
+  },
+  {
+    "title": "Config Script-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/Config_Script-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints/Config_Script-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Config/.ipynb_checkpoints"
+  },
+  {
+    "title": "Hoodies",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies/Hoodies.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies/Hoodies.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies"
+  },
+  {
+    "title": "Hoodies-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies/.ipynb_checkpoints/Hoodies-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies/.ipynb_checkpoints/Hoodies-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hoodies/.ipynb_checkpoints"
+  },
+  {
+    "title": "Accessories",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories/Accessories.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories/Accessories.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories"
+  },
+  {
+    "title": "Accessories-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories/.ipynb_checkpoints/Accessories-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories/.ipynb_checkpoints/Accessories-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Accessories/.ipynb_checkpoints"
+  },
+  {
+    "title": "Posters",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters/Posters.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters/Posters.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters"
+  },
+  {
+    "title": "Posters-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters/.ipynb_checkpoints/Posters-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters/.ipynb_checkpoints/Posters-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Posters/.ipynb_checkpoints"
+  },
+  {
+    "title": "Hats",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats/Hats.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats/Hats.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats"
+  },
+  {
+    "title": "Hats-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats/.ipynb_checkpoints/Hats-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats/.ipynb_checkpoints/Hats-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/Hats/.ipynb_checkpoints"
+  },
+  {
+    "title": "T-Shirts",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts/T-Shirts.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts/T-Shirts.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts"
+  },
+  {
+    "title": "T-Shirts-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts/.ipynb_checkpoints/T-Shirts-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts/.ipynb_checkpoints/T-Shirts-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Product_Concepts/T-Shirts/.ipynb_checkpoints"
+  },
+  {
+    "title": "Home Page",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Home_Page/Home_Page.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Home_Page/Home_Page.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Home_Page"
+  },
+  {
+    "title": "Category Pages",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Category_Pages/Category_Pages.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Category_Pages/Category_Pages.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Category_Pages"
+  },
+  {
+    "title": "Cart And Checkout",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Cart_and_Checkout/Cart_and_Checkout.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Cart_and_Checkout/Cart_and_Checkout.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Cart_and_Checkout"
+  },
+  {
+    "title": "Product Detail Pages",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Product_Detail_Pages/Product_Detail_Pages.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Product_Detail_Pages/Product_Detail_Pages.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Website_Layout_and_Pages/Product_Detail_Pages"
+  },
+  {
+    "title": "Influencer Collaborations",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Influencer_Collaborations/Influencer_Collaborations.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Influencer_Collaborations/Influencer_Collaborations.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Influencer_Collaborations"
+  },
+  {
+    "title": "Social Media Campaigns",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Social_Media_Campaigns/Social_Media_Campaigns.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Social_Media_Campaigns/Social_Media_Campaigns.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Social_Media_Campaigns"
+  },
+  {
+    "title": "Email Marketing",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Email_Marketing/Email_Marketing.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Email_Marketing/Email_Marketing.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Email_Marketing"
+  },
+  {
+    "title": "Paid Ads",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Paid_Ads/Paid_Ads.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Paid_Ads/Paid_Ads.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Marketing_Strategy/Paid_Ads"
+  },
+  {
+    "title": "Marketing And Promotion",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/Marketing_and_Promotion.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion/Marketing_and_Promotion.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Marketing_and_Promotion"
+  },
+  {
+    "title": "Print On Demand Setup",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup/Print_on_Demand_Setup.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup/Print_on_Demand_Setup.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Print_on_Demand_Setup"
+  },
+  {
+    "title": "Seo And Keyword Strategy",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy/SEO_and_Keyword_Strategy.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy/SEO_and_Keyword_Strategy.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/SEO_and_Keyword_Strategy"
+  },
+  {
+    "title": "Pricing And Profit Margins",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/Pricing_and_Profit_Margins.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins/Pricing_and_Profit_Margins.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Amazon_Integration_and_Listing_Strategy/Pricing_and_Profit_Margins"
+  },
+  {
+    "title": "Hawk Merch-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Hawk_Merch-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Hawk_Merch-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints"
+  },
+  {
+    "title": "Original Hawk-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Original_Hawk-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Original_Hawk-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints"
+  },
+  {
+    "title": "Config Script-Checkpoint",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Config_Script-checkpoint.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints/Config_Script-checkpoint.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/.ipynb_checkpoints"
+  },
+  {
+    "title": "Choose Base Item",
+    "source_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Custom Merch Creator/Choose Base Item.ipynb",
+    "markdown_file": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Custom Merch Creator/Choose Base Item.md",
+    "path": "Hawk_Eye_Dev_Notebooks copy/Hawk_Eye_Store/Custom Merch Creator"
+  }
+]
