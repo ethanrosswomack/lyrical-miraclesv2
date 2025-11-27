@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS content_assets (
     path TEXT NOT NULL UNIQUE,
     release TEXT,
     title TEXT,
-    kind TEXT,
+    type TEXT,
     checksum INTEGER,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );

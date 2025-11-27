@@ -1,0 +1,13 @@
+name = "lyrical-miracles-api"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "LYRICAL_DB"
+database_name = "lyrical-miracles"
+
+[env.production]
+workers_dev = true
+
+[[env.production.d1_databases]]
+binding = "LYRICAL_DB"
+database_name = "lyrical-miracles"

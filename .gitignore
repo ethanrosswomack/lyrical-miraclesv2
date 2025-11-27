@@ -21,3 +21,4 @@ media/images/
 # Misc
 *.swp
 .DS_Store
+.wrangler/
