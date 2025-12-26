@@ -1,12 +1,12 @@
 name = "lyrical-miracles-api"
 compatibility_date = "2024-01-01"
 
-  name = "my-spa"
-  main = "src/index.js"
-  compatibility_date = "2025-01-01"
-  [assets]
-  directory = "./dist"
-  binding = "ASSETS"
+name = "my-spa"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+[assets]
+directory = ".scripts/dist"
+binding = "ASSETS"
 
 [[d1_databases]]
 binding = "LYRICAL_DB"
