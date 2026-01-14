@@ -1,4 +1,4 @@
-name = "lyrical-miracles-api"
+name = "lyrical-vector-ingest"
 compatibility_date = "2024-01-01"
 
 name = "my-spa"
@@ -28,3 +28,6 @@ database_name = "lyrical-miracles"
 binding = "VECTORIZE_INDEX"
 index_name = "lyrical-miracles"
 remote = true
+
+[[assets]]
+directory = "./content/lyrics/releases/HAWK-ARS-00/"
