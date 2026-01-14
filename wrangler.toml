@@ -1,11 +1,12 @@
 name = "lyrical-miracles-api"
-compatibility_date = "2024-01-01"
+compatibility_date = "2026-01-14"
 
 name = "my-spa"
 main = "src/index.js"
-compatibility_date = "2025-01-01"
+compatibility_date = "2026-01-14"
+
 [assets]
-directory = ".scripts/dist"
+directory = "./content/lyrics/releases/HAWK-ARS-00"
 binding = "ASSETS"
 
 [[d1_databases]]
