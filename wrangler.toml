@@ -21,3 +21,6 @@ database_name = "lyrical-miracles"
 binding = "VECTORIZE_INDEX"
 index_name = "lyrical-miracles"
 remote = true
+
+[[assets]]
+directory = "./content/lyrics/releases/HAWK-ARS-00/"
