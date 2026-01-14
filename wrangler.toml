@@ -1,6 +1,6 @@
 name = "lyrical-miracles-api"
 
-main = "./platform/vectorize-worker/src/index.js"
+main = "platform/vectorize-worker/src/index.ts"
 compatibility_date = "2026-01-14"
 
 [assets]
