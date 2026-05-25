@@ -39,7 +39,7 @@ require_var CF_D1_DATABASE
 
 CONTENT_DIR="$ROOT_DIR/content/lyrics"
 MEDIA_DIR="$ROOT_DIR/media"
-DIST_DIR="$ROOT_DIR/dist"
+DIST_DIR="$ROOT_DIR/scripts/dist"
 SCHEMA_FILE="$ROOT_DIR/platform/infra/sql/schema.sql"
 SQL_TEMP="$DIST_DIR/d1_seed.sql"
 

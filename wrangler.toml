@@ -1,5 +1,13 @@
 name = "lyrical-vector-ingest"
 compatibility_date = "2024-01-01"
+name = "lyrical-miracles-api"
+
+main = "platform/vectorize-worker/src/index.ts"
+compatibility_date = "2026-01-14"
+
+[assets]
+directory = "./content/lyrics/releases/HAWK-ARS-00"
+binding = "ASSETS"
 
 [[d1_databases]]
 binding = "LYRICAL_DB"
