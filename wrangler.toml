@@ -3,7 +3,7 @@ main = "platform/vectorize-worker/src/index.ts"
 compatibility_date = "2026-05-25"
 
 [assets]
-directory = "content/*"
+directory = "./content/notebooks/Hawk_Eye_Dev_Notebooks*"
 binding = "ASSETS"
 
 [[d1_databases]]
