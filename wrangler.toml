@@ -1,8 +1,9 @@
 name = "lyrical-vector-ingest"
 main = "platform/vectorize-worker/src/index.ts"
+compatibility_date = "2026-05-25"
 
 [assets]
-directory = "./content/lyrics/releases/HAWK-ARS-00"
+directory = "content/*"
 binding = "ASSETS"
 
 [[d1_databases]]
